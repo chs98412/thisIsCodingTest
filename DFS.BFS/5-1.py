@@ -7,7 +7,7 @@ def dfs(graph, v, visited):
             dfs(graph, i, visited)
 
 
-graph = [
+graph = [   
     [],
     [2, 3, 8],
     [1, 7],
